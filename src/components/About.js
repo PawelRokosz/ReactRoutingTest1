@@ -1,5 +1,7 @@
 import React from 'react';
 
+//Simple React component
+
 class About extends React.Component {
   render() {
     return (
